@@ -10,9 +10,13 @@ Write a Dart program using variables to display your name, age, school, and a ho
 ## Program 2: Perform Mathematical Operations with Functions
 Write a Dart program that performs two mathematical operations using functions.
 
+the operations perfomed by my code include adition(sum), and division () of numbers
+
 ## Program 3: Determine Grade Based on Marks
 Write a Dart program to determine the grade based on a student's marks. The program should print out the appropriate grade according to the following criteria:
 - If the marks are greater than 85, print "Excellent".
 - If the marks are between 75 and 85 (inclusive), print "Very Good".
 - If the marks are between 65 and 75 (inclusive), print "Good".
 - If the marks are below 65, print "Average".
+
+my code includes a user input for the scores to be able to be graded accordingly
